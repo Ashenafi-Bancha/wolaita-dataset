@@ -33,4 +33,34 @@ Sentence-level translations between:
 These datasets are essential for:
 - AI translators
 - Multilingual language models
--Cross-lingual research
+- Cross-lingual research
+#### Format Example
+
+
+### 2️⃣ Monolingual Text Corpus
+
+Large collections of Wolaita-only texts used for:
+
+- Language modeling
+- Grammar analysis
+- Spell checking
+- Text generation
+  
+ Sources may include:
+
+- Books
+- Articles
+- Educational materials
+-Stories and folklore
+-Religious texts (public domain)
+- Community contributions
+
+### 3️⃣ Wolaita Digital Dictionary
+Structured lexical database including:
+- Word
+- Part of speech
+- Meaning
+= Example sentence
+-Synonyms (if available)
+
+
