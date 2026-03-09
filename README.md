@@ -1,8 +1,8 @@
-#📚 Wolaita Language Dataset
+# 📚 Wolaita Language Dataset
 
 Building the foundational data that enables AI, research, and digital tools for the Wolaita language.
 
-##🌍 Overview
+## 🌍 Overview
 
 The Wolaita Language Dataset is an open-source initiative focused on collecting, digitizing, organizing, and sharing high-quality linguistic data for the Wolaita language.
 
@@ -15,4 +15,22 @@ Modern Artificial Intelligence systems depend on large, well-structured datasets
 - Language Learning Applications
 - Academic Research
 - Cultural Preservation
+  
 This repository serves as the data foundation for Wolaita AI tools and language technologies.
+
+## 🎯 Mission
+
+To build the largest, cleanest, and most accessible open Wolaita language dataset for technology, education, and research.
+
+## 🧠 What This Repository Contains
+### 1️⃣ Parallel Translation Corpus
+
+Sentence-level translations between:
+- Wolaita ↔ English
+- Wolaita ↔ Amharic
+- English ↔ Wolaita ↔ Amharic (tri-parallel where available)
+  
+These datasets are essential for:
+- AI translators
+- Multilingual language models
+-Cross-lingual research
