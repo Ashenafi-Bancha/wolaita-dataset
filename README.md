@@ -64,6 +64,7 @@ Structured lexical database including:
 -Synonyms (if available)
 
 ### 5️⃣ Cultural & Linguistic Resources
+```
 
 Preserving identity through:
 - Proverbs
@@ -111,3 +112,4 @@ wolaita-dataset/
 │
 └── samples/
     └── demo-dataset.csv
+```
