@@ -63,4 +63,12 @@ Structured lexical database including:
 = Example sentence
 -Synonyms (if available)
 
+### 5️⃣ Cultural & Linguistic Resources
+
+Preserving identity through:
+- Proverbs
+- Idioms
+- Oral history transcripts
+- Traditional expressions
+- Cultural terminology
 
