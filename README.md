@@ -72,3 +72,42 @@ Preserving identity through:
 - Traditional expressions
 - Cultural terminology
 
+## 🗂️ Repository Structure
+
+wolaita-dataset/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── docs/
+│   ├── data-collection-guidelines.md
+│   ├── annotation-rules.md
+│   └── data-format-standards.md
+│
+├── parallel-corpus/
+│   ├── wolaita-english.csv
+│   ├── wolaita-amharic.csv
+│   └── tri-parallel.csv
+│
+├── monolingual/
+│   ├── books/
+│   ├── articles/
+│   ├── stories/
+│   └── educational/
+│├── dictionary/
+│   ├── wolaita-dictionary.json
+│   └── wordlists/
+│
+├── speech/
+│   ├── raw-audio/
+│   ├── transcripts/
+│   └── metadata/
+│
+├── cultural/
+│   ├── proverbs.csv
+│   ├── idioms.csv
+│   └── oral-history/
+│
+└── samples/
+    └── demo-dataset.csv
