@@ -121,3 +121,11 @@ To ensure consistency and usability:
 - One sentence per row (for corpora)
 - Speaker metadata for audio
 - Versioned dataset releases
+
+## 🔮 Future Plans
+
+- Large-scale community data collection
+- Verified academic datasets
+- Public dataset releases (v1, v2, v3…)
+- Integration with Wolaita AI tools
+- Partnerships with universities and institutions
