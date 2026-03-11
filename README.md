@@ -113,3 +113,11 @@ wolaita-dataset/
 └── samples/
     └── demo-dataset.csv
 ```
+## 📦 Data Standards
+
+To ensure consistency and usability:
+- UTF‑8 encoding for all text files
+- Clear column headers
+- One sentence per row (for corpora)
+- Speaker metadata for audio
+- Versioned dataset releases
